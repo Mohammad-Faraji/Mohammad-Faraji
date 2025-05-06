@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 **Mohammad-Faraji/Mohammad-Faraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🌱 I’m currently learning **ASP.NET** and advancing my skills in backend development.
-- 👨‍💻 You can explore all of my projects [here](https://github.com/abolfazlshs80).
+- 👨‍💻 You can explore all of my projects [here](https://github.com/Mohammad-Faraji).
 - 💬 Ask me about **C#**, **.NET**, and backend technologies.
-- 📫 Reach me at **abolfazlshs80@gmail.com**.
+- 📫 Reach me at **M.faraji9841@gmail.com**.
 ---
 
 
